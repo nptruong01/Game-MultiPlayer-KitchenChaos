@@ -58,4 +58,4 @@ Players can control their characters using arrow keys or WASD. They interact wit
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license).
+This project is licensed under the [MIT License](https://github.com/nptruong01/Game-MultiPlayer-KitchenChaos/blob/main/LICENSE).
