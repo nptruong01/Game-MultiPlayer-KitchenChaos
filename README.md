@@ -13,7 +13,6 @@ Players can control their characters using arrow keys or WASD. They interact wit
 
 - Real-time multiplayer gameplay
 - Multiple levels with different kitchens and dishes
-- Dynamic environments with obstacles
 - Score-based progression and challenges
 
 ## Screenshots
