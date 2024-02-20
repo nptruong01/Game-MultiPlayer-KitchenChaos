@@ -50,6 +50,8 @@ Players can control their characters using arrow keys or WASD. They interact wit
 ### Slow In Map Update
 <img src="https://github.com/nptruong01/Game-MultiPlayer-KitchenChaos/assets/113322089/1bfa6086-ac2d-489c-aa36-689257ec30f1.png" alt="Slow In Map Update" width="450"/>
 
+<div align="left">
+
 ## How to Play
 
 To play the game, follow these steps:
