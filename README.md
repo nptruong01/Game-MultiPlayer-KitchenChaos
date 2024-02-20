@@ -52,19 +52,9 @@ Players can control their characters using arrow keys or WASD. They interact wit
 
 <div align="left">
 
-## How to Play
-
-To play the game, follow these steps:
-
-1. Clone this repository.
-2. Install any necessary dependencies.
-3. Run the game executable.
-4. Enjoy cooking with your friends!
-
 ## Credits
 
 - [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) for the tutorials
-- [Your Name](link_to_your_portfolio) for the game development
 
 ## License
 
