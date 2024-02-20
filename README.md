@@ -63,7 +63,7 @@ To play the game, follow these steps:
 
 ## Credits
 
-- [Code Monkey](link_to_youtube_channel) for the tutorials
+- [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) for the tutorials
 - [Your Name](link_to_your_portfolio) for the game development
 
 ## License
