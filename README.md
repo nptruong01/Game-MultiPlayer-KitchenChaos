@@ -1,7 +1,4 @@
 # MultiPlayer-KitchenChaos
-
-![Start Interface](https://github.com/nptruong01/Game-MultiPlayer-KitchenChaos/assets/113322089/48f0cec8-867d-42d5-b94c-dfba11c284be)
-
 This project was inspired by the game "Overcooked!" and YouTube tutorials from "Code Monkey." I have updated and improved upon the game mechanics.
 
 ## Description
