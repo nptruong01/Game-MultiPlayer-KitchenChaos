@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250af04b45154dc4f957a4738eb529fa, type: 3}
+  m_Name: Tuna-TunaSlices
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: f6d5cfb0b1d7db44a8226ec65be2ac9e, type: 2}
+  output: {fileID: 11400000, guid: 93a450d3ba3e1ec4d9cbb43e0039eb57, type: 2}
+  cuttingProgressMax: 3

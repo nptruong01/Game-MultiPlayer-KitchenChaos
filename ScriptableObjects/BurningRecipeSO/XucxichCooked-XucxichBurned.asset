@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc6f88599381fd4abe9e1b51884d432, type: 3}
+  m_Name: XucxichCooked-XucxichBurned
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 87b26bd8385151542a5f34bc1cab9282, type: 2}
+  output: {fileID: 11400000, guid: 31e242af734e95240a348700044e8c65, type: 2}
+  burningTimerMax: 4

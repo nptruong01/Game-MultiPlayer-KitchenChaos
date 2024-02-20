@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598598090ee587c4a89e1c171cf31582, type: 3}
+  m_Name: SalmonSlices
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3572394423349172233, guid: f58400d3ed257c34aa3cdf18d6342901, type: 3}
+  sprite: {fileID: 21300000, guid: b3b0739c917ba8044bfea1f36fd45161, type: 3}
+  objectName: Salmon Slices

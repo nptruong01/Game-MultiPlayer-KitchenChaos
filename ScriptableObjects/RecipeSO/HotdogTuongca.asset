@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 024a277b9a585184695f68425a318746, type: 3}
+  m_Name: HotdogTuongca
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: dd4e05829bb1fcb468f0da645d759f74, type: 2}
+  - {fileID: 11400000, guid: 87b26bd8385151542a5f34bc1cab9282, type: 2}
+  - {fileID: 11400000, guid: 4046b26c9abd7e24ba8a8f495f9e4837, type: 2}
+  requiredOrder:
+  - {fileID: 11400000, guid: dd4e05829bb1fcb468f0da645d759f74, type: 2}
+  - {fileID: 11400000, guid: 87b26bd8385151542a5f34bc1cab9282, type: 2}
+  - {fileID: 11400000, guid: 4046b26c9abd7e24ba8a8f495f9e4837, type: 2}
+  needCookList:
+  - {fileID: 11400000, guid: 87b26bd8385151542a5f34bc1cab9282, type: 2}
+  needCutList: []
+  recipeName: Hotdog+Tuongca
+  price: 13
+  currentTime: 46.37721
