@@ -17,9 +17,11 @@ Players can control their characters using arrow keys or WASD. They interact wit
 - Score-based progression and challenges
 
 ## Screenshots
+<div align="center">
 
 ### Start Interface
 ![Start Interface](https://github.com/nptruong01/Game-MultiPlayer-KitchenChaos/assets/113322089/48f0cec8-867d-42d5-b94c-dfba11c284be)
+<img src="https://github.com/nptruong01/Game-MultiPlayer-KitchenChaos/assets/113322089/48f0cec8-867d-42d5-b94c-dfba11c284be.png" alt="Start Interface" width="450"/>
 
 ### Gameplay Interface
 ![Gameplay Interface](https://github.com/nptruong01/Game-MultiPlayer-KitchenChaos/assets/113322089/9b0559cf-1bd9-429e-a065-1a4313e7c8c0)
