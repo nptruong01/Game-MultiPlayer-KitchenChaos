@@ -22,12 +22,19 @@ public class GamePlayingClockUI_Update : MonoBehaviour
 
     private void Update() {
         //timerImage.fillAmount = KitchenGameManager.Instance.GetGamePlayingTimerNormalized();
-        HandleTimeLimitUpdated();
-
+        float seconds = KitchenGameManager.Instance.GetgamePlayingTimer();
+        
+        if (seconds <= finaltimer) {
+            timer.color = finalSecondsColor;
+            PlayFinalSecondsEffects();
+        } else {
+            // Reset the color to white if not in the final seconds range
+            HandleTimeLimitUpdated();
+            timer.color = Color.white;
+        }
     }
 
     private void HandleTimeLimitUpdated() {
-        float seconds = KitchenGameManager.Instance.GetgamePlayingTimer();
         float timemax = KitchenGameManager.Instance.GetgamePlayingTimerMax();
 
         var time = TimeSpan.FromSeconds(seconds);
@@ -35,14 +42,6 @@ public class GamePlayingClockUI_Update : MonoBehaviour
 
         var normilizedTime = seconds / timemax;
         slider.value = normilizedTime;
-
-        if (seconds <= finaltimer) {
-            timer.color = finalSecondsColor;
-            PlayFinalSecondsEffects();
-        } else {
-            // Reset the color to white if not in the final seconds range
-            timer.color = Color.white;
-        }
     }
 
 
